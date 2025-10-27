@@ -110,3 +110,7 @@ whoami
 pwd
 ls -l
 cp index.html /var/www/html
+
+"*"
+"S3:GetObject"
+"arn/*"
